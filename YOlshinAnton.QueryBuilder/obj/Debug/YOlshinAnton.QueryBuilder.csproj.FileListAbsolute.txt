@@ -1,0 +1,6 @@
+C:\Users\АНАСТАСИЯ\source\repos\YOlshinAnton.QueryBuilder\bin\Debug\YOlshinAnton.QueryBuilder.dll
+C:\Users\АНАСТАСИЯ\source\repos\YOlshinAnton.QueryBuilder\bin\Debug\YOlshinAnton.QueryBuilder.pdb
+C:\Users\АНАСТАСИЯ\source\repos\YOlshinAnton.QueryBuilder\obj\Debug\YOlshinAnton.QueryBuilder.csproj.AssemblyReference.cache
+C:\Users\АНАСТАСИЯ\source\repos\YOlshinAnton.QueryBuilder\obj\Debug\YOlshinAnton.QueryBuilder.csproj.CoreCompileInputs.cache
+C:\Users\АНАСТАСИЯ\source\repos\YOlshinAnton.QueryBuilder\obj\Debug\YOlshinAnton.QueryBuilder.dll
+C:\Users\АНАСТАСИЯ\source\repos\YOlshinAnton.QueryBuilder\obj\Debug\YOlshinAnton.QueryBuilder.pdb
